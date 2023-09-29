@@ -1,0 +1,19 @@
+1,Customer,1,Spaghetti,12500,1,Order diterima
+1,Customer,1,Nasi lagi,15000,1,Order diterima
+1,Customer,2,Bandrek,12000,1,Order diterima
+1,Customer,2,Teh,5000,1,Order diterima
+1,Customer,2,Jeruk,5000,1,Order diterima
+2,Customer,1,Nasi lagi,15000,1,Order diterima
+2,Customer,2,Bandrek,12000,2,Order diterima
+3,Customer,1,Nasi Goreng,12500,2,Order diterima
+4,Customer,1,Nasi lagi,15000,2,Order diterima
+5,Customer,1,Nasi Goreng,12500,1,Order diterima
+6,Customer,1,Nasi Goreng,12500,1,Order diterima
+7,Customer,2,Teh,5000,2,Order diterima
+8,Customer,1,testing,9000,4,Order diterima
+9,Customer,1,Kebab,15000,3,Order diterima
+10,Customer,1,Kebab,15000,3,Order diterima
+11,Customer,1,Kebab,15000,2,Order diterima,
+11,Customer,2,Jeruk,5000,1,Order diterima,
+1,Customer,1,Spaghetti,25000,2,Order diterima,
+12,Customer,2,Jeruk,5000,1,Order diterima,
